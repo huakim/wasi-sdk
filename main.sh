@@ -36,8 +36,8 @@ cd ..
 #rm -Rf .git
 #cd ..
 
-git config --global user.name 'GitHub Actions Bot'
-git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+git config --global user.name 'huakim'
+git config --global user.email 'fijik19@gmail.com'
 git add --all
 git commit -m update
 git push
